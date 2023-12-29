@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Rosa Morales</h1>
 <h3 align="center">Graphic designer, Web developer and UX Designer</h3>
 
-<h4 align="center">La curiosidad y las ganas de aprender me ubico laboralmente en el mundo IT por más de 10 años; Estudiando por primera vez en el año 2005 Diseño gráfico, se presento la inquietud por conocer lo que estaba más allá de las aplicaciones, entender el proceso completo y así ser un profesional integral.
+<h4>La curiosidad y las ganas de aprender me ubico laboralmente en el mundo IT por más de 10 años; Estudiando por primera vez en el año 2005 Diseño gráfico, se presento la inquietud por conocer lo que estaba más allá de las aplicaciones, entender el proceso completo y así ser un profesional integral.
 
 En mi recorrido me encontré con el área de la Docencia, impartiendo UX y Fundamentos de desarrollo web en la Academia Desafío Latam.
 
